@@ -41,9 +41,9 @@ export default defineConfig({
       // field passes through to the emitted manifest.webmanifest; browsers
       // ignore unknown members.
       manifest: {
-        name: "APPNAME",
-        short_name: "APPNAME",
-        description: "APPNAME — free forever",
+        name: "Browser Canary e2e-create-mu0539z3-axh21l-test",
+        short_name: "Browser Canary e2e-create-mu0539z3-axh21l-test",
+        description: "Browser Canary e2e-create-mu0539z3-axh21l-test — free forever",
         start_url: "/",
         display: "standalone",
         background_color: "#0f0f0f",
